@@ -1,4 +1,4 @@
-# mrembo.html
+
 full notes and all module guidelines
 <html>
 <head>
@@ -8,26 +8,13 @@ body {
    background-color: blue;
       </style>
 </head>
-<body text="brown">
-<img src="bro.jpg" align="right" >
-</img>
+
 <style>
    body {
       background-image:url("bro.jpg");
       background-color:color;
 }
-h1{
-     color:red;
-}
-h2{
-      color:blue;
-}
-h3{
-      color:purple;
-}
-h4{
-      color:red;
-}
+
 </style>
 <body>
 <h1> BUSINESS COMMUNICATION </h1>
