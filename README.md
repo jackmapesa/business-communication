@@ -1,10 +1,10 @@
 
-full notes and all module guidelines
+
 <html>
 <head>
-<title> BUSINESS COMMUNICATION </title>
+<title>BUSINESS COMMUNICATION.</title>
    <style>
-p {
+body {
    background-color: blue;
       </style>
 </head>
