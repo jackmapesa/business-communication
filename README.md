@@ -4,18 +4,11 @@ full notes and all module guidelines
 <head>
 <title> BUSINESS COMMUNICATION </title>
    <style>
-body {
+p {
    background-color: blue;
       </style>
 </head>
-
-<style>
-   body {
-      background-image:url("bro.jpg");
-      background-color:color;
-}
-
-</style>
+   
 <body>
 <h1> BUSINESS COMMUNICATION </h1>
 <ul>
