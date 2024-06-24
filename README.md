@@ -10,6 +10,7 @@ full notes and all module guidelines
 <style>
    body {
       background-image:url("bro.jpg");
+      background-color:color;
 }
 h1{
      color:red;
