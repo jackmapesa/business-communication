@@ -2,7 +2,7 @@
 full notes and all module guidelines
 <html>
 <head>
-<title> www.BUSINESS COMMUNICATION.com </title>
+<title> BUSINESS COMMUNICATION </title>
 </head>
 <body text="brown">
 <img src="bro.jpg" align="right" >
