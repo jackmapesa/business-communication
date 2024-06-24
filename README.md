@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>BUSINESS COMMUNICATION.</title>
+
    <style>
 body {
    background-color: blue;
