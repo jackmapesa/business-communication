@@ -3,6 +3,10 @@ full notes and all module guidelines
 <html>
 <head>
 <title> BUSINESS COMMUNICATION </title>
+   <style>
+body {
+   background-color: blue;
+      </style>
 </head>
 <body text="brown">
 <img src="bro.jpg" align="right" >
